@@ -1,5 +1,5 @@
 package modelo;
-
+//Kristel Cordero Fernandez, C6E494
 /**
  * Estadísticas de un jugador
  * el programa de mantenimiento solo las consulta, nunca las edita
