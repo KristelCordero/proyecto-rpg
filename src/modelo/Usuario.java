@@ -1,6 +1,7 @@
 package modelo;
 
 //Kristel Cordero Fernandez, C6E494
+//Isaac Daniel Vega Leiton, C6N937
 /**
  * Representa a un usuario del videojuego.
  * Agrupa sus datos generales y se relaciona por composición con
