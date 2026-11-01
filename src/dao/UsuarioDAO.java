@@ -1,5 +1,5 @@
 package dao;
-// Aaron Esquivel
+// Aaron Esquivel.
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
